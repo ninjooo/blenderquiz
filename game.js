@@ -11,7 +11,7 @@ let questionCounter = 0
 let availableQuestions = []
 
 let questions = [{
-        question: 'Blender е програма за правене на:',
+        question: 'Blender е програма за създаване на:',
         choice1: 'Игри',
         choice2: '3D проекти',
         choice3: 'Презентаций',
